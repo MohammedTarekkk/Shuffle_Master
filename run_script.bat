@@ -7,4 +7,4 @@ REM Change the current directory to the directory of the batch file
 CD /D "%~dp0"
 
 REM Run the Python script
-%PYTHON_EXECUTABLE% "sys_meeting_script_with add_delete.py"
+%PYTHON_EXECUTABLE% "sys_meeting_tool.py"
